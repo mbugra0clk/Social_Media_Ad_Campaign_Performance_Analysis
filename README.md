@@ -83,8 +83,6 @@ Although we couldn’t run advanced computational analysis, we derived some gene
 - Advanced machine learning-based budget optimization models.
 - Time-series forecasting for campaign performance prediction.
 
-📂 This project can be extended by implementing predictive models such as ARIMA, Prophet, or LSTM for forecasting follower growth and campaign performance.
-
 ---
 Feel free to contribute and improve the analysis! 💡
 
